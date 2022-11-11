@@ -1,0 +1,65 @@
+body {
+    font-family: sans-serif;
+}
+header {
+    border: 5px solid greenyellow;
+    border-radius: 10px;
+    padding: 7px;
+    margin: 5px;
+    background-color: greenyellow;
+    margin-bottom: 20px;
+}
+header a {
+    text-decoration: none;
+    border: 3px solid blue;
+    margin: 10px;
+    padding: 5px;
+    border-radius: 10px;
+    background-color: blue;
+    color: khaki;
+}
+    h1 {
+        color: rgb(160, 223, 88);
+        background-color: rgb(122, 79, 179);
+        text-align: center;
+    }
+    footer p {
+        background-color: cadetblue;
+        border: 2px solid gold;
+    }
+    nav a {
+        text-decoration: none;
+        color: rgb(123, 240, 178);
+        border: 4px solid black;
+        margin: 10px;
+        padding: 10px;
+        border-radius: 10px;
+        background-color: black;
+    }
+    nav {
+        text-align: center;
+    }
+    .prod {
+        background-color: aqua;
+        border: 7px solid rgb(30, 202, 202);
+        border-radius: 13px;
+        margin: 10px;
+        padding: 10px;
+    }
+    .sez {
+        color: burlywood;
+    }
+    .im1 {
+        border: 4px solid rgb(92, 81, 189);
+        border-radius: 9px;
+    }
+    h2 {
+        color: coral;
+    }
+    .hr1 {
+        text-decoration: none;
+        color: rgb(99, 202, 147);
+        border: 3px solid violet;
+        padding: 7px;
+        border-radius: 12px;
+    }
